@@ -45,10 +45,6 @@ fclose(fp);
 return 0;
 }
 ```
-# Exp9.txt
-```
-X=a-b Y=a-c Z=a+b C=a-b C=a-b
-```
 # OUTPUT
 ![Screenshot 2024-05-05 203742](https://github.com/HariviswanathB/Ex-9-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-/assets/119103855/dc886a91-2072-4cff-9d1f-d5bfd9e88c10)
 
