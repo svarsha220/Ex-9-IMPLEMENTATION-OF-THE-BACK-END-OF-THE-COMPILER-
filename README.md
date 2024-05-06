@@ -11,7 +11,6 @@ To write a program to implement the back end of the compiler.
 5. Target code for the given statement is produced.
 6. Stop the program.
 # PROGRAM
-# Exp9.c
 ```
 #include <stdio.h>
 #include <ctype.h>
